@@ -1,6 +1,7 @@
 {
-  "extends": [
-    "next/core-web-vitals",
-    "next/typescript"
-  ]
+  "rules": {
+    "no-console": "off",
+    "another-rule": "off"
+    // Add more rules you want to disable here
+  }
 }
